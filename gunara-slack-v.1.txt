@@ -1,0 +1,271 @@
+# 🛠️ GUNARA TOOL STACK v1.0
+## Sistem Operasi Hidup via Aplikasi — Terhubung dari Hulu ke Hilir, Bisa Diakses dari Mana Saja
+
+Terverifikasi melalui riset terkini: **Notion + Google Sheets + GitHub + WhatsApp Business + Google Calendar + Todoist + Bitwarden + ChatGPT/Claude/Gemini** — semuanya gratis atau freemium, semuanya tersedia di Android, iOS, web browser, HP, dan laptop, dan semuanya bisa saling terhubung membentuk sistem hidupmu yang utuh【turn2search0】【turn2search2】【turn1search7】【turn2search10】【turn1search10】【turn1search17】.
+
+Pak Gugun, sebelum masuk ke daftar, satu penegasan penting dari manager:
+
+> **Prinsip pemilihan tool ini: MINIMUM APLIKASI, MAKSIMUM HASIL.** Setiap tool tambahan = waktu setup + waktu belajar + risiko tidak konsisten. Kita pilih 9 tool inti, bukan 30. Konsultan terbaik dunia bukan yang pakai aplikasi terbanyak — tapi yang paling menguasai sistemnya.
+
+---
+
+## 🎯 KESIMPULAN: THE GUNARA STACK
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│              9 TOOL INTI — SEMUA CROSS-PLATFORM              │
+│   Android ✅ | iOS ✅ | Web Browser ✅ | HP ✅ | Laptop ✅     │
+└─────────────────────────────────────────────────────────────┘
+
+🧠 NOTION          → Second Brain: dokumen, knowledge base, wiki
+📊 GOOGLE SHEETS   → Data & CRM: keuangan, klien, tracking
+🐙 GITHUB          → Code & Arsip: repo project, backup docs
+💬 WHATSAPP BIZ    → Komunikasi Klien: sales, support, closing
+📅 GOOGLE CALENDAR → Waktu: jadwal, time blocking, reminders
+✅ TODOIST         → Eksekusi Harian: 3 MIT, tasks, habits
+📁 GOOGLE DRIVE    → File Storage: 15GB gratis, semua dokumen
+🔐 BITWARDEN       → Password Manager: semua kredensial aman
+🤖 AI TRIO         → ChatGPT + Claude + Gemini: asisten manager
+```
+
+---
+
+## 📋 TABEL LENGKAP: 9 TOOL INTI DENGAN ALASAN
+
+### 🧠 1. NOTION — Second Brain & Knowledge Hub
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | Menampung semua HULU (Identitas, Visi, OKR) + MESIN 5 (Dokumentasi, Win Log, Studi Kasus) + Knowledge Base belajar |
+| **Kenapa Notion** | Paling fleksibel untuk struktur dokumen kompleks; offline mode tersedia di semua plan termasuk gratis; database untuk relasi antar konten; template marketplace gratis |
+| **Platform** | Android app, iOS app, Web app, Desktop app (Windows/Mac) |
+| **Harga** | Free plan: unlimited pages, 5 guests. Personal Pro ($4/bln): unlimited guests, version history |
+| **Offline** | ✅ Ya — bisa view, edit, create pages offline di semua platform sejak 2025【turn2search0】【turn2search2】 |
+| **Untuk GUNARA OS** | Semua dokumen HULU, MESIN M4 (Belajar), MESIN M5 (Dokumentasi), halaman wiki keahlian |
+
+### 📊 2. GOOGLE SHEETS — Data, CRM & Keuangan
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | MESIN 1 (Keuangan: hutang, piutang, arus kas), MESIN 2 (CRM Klien), MESIN 3 (Relasi Politik) |
+| **Kenapa Sheets** | Lebih baik untuk data-heavy tasks dan formula kompleks daripada Notion database【turn1search2】; kolaborasi real-time; formula powerful untuk dashboard keuangan; gratis 100% |
+| **Platform** | Android app, iOS app, Web browser, sync otomatis |
+| **Harga** | Gratis unlimited dengan akun Google |
+| **Untuk GUNARA OS** | Semua sheet keuangan, CRM klien, relasi politik — data yang butuh formula, filter, pivot table |
+
+### 🐙 3. GITHUB — Repository Kode & Dokumentasi Teknis
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | Rumah semua kode website (FORTRESS, DIGIMAN, dll) + backup dokumen teknis + portfolio open source |
+| **Kenapa GitHub** | Standar industri untuk version control; mobile app tersedia untuk iOS & Android【turn1search7】【turn1search9】; GitHub Copilot Chat di mobile app; profile GitHub = portfolio consultant IT |
+| **Platform** | Android app, iOS app, Web browser, Desktop via Git |
+| **Harga** | Free: unlimited public & private repos |
+| **Untuk GUNARA OS** | Semua kode project website + dokumen teknis + backup GUNARA OS dalam format markdown |
+
+### 💬 4. WHATSAPP BUSINESS — Mesin Penjualan & Support Klien
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | Kanal utama komunikasi klien, closing, follow-up, katalog layanan, auto-reply |
+| **Kenapa WA Business** | Semua orang Indonesia punya WA; fitur katalog, label, auto-reply, broadcast; bisa integrate dengan Google Calendar via Make.com【turn1search12】 |
+| **Platform** | Android app, iOS app, Web (WA Web di browser) |
+| **Harga** | Gratis |
+| **Untuk GUNARA OS** | Semua percakapan klien → catat hasil penting ke Notion/Sheets setelahnya |
+
+### 📅 5. GOOGLE CALENDAR — Manajemen Waktu & Time Blocking
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | Jadwal CEO Day, Sales Day, Anak Day; reminder follow-up klien; blocking waktu deep work |
+| **Kenapa GCal** | Terintegrasi dengan semua Google services; share calendar untuk jadwal keluarga; reminder push notification; bisa integrate dengan WA Business【turn1search12】 |
+| **Platform** | Android (built-in), iOS app, Web browser |
+| **Harga** | Gratis |
+| **Untuk GUNARA OS** | Blok waktu tetap per hari sesuai pola mingguan GUNARA OS + reminder semua deadline |
+
+### ✅ 6. TODOIST — Eksekusi Harian & 3 MIT
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | Menjalankan HILIR (3 MIT harian), habits tracker, task per project |
+| **Kenapa Todoist** | Paling solid untuk task management cross-platform; natural language input ("setiap Senin jam 9"); integrate dengan Google Calendar【turn1search10】; filter & label powerful |
+| **Platform** | Android app, iOS app, Web app, Desktop app, Browser extension |
+| **Harga** | Free: 5 active projects. Pro ($3/bln): 300 projects, reminders |
+| **Untuk GUNARA OS** | Ritual pagi (3 MIT) + semua task per fase + habit tracking belajar |
+
+### 📁 7. GOOGLE DRIVE — Cloud Storage & File Management
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | Storage semua file: foto klien, dokumen legal, PDF, desain, backup |
+| **Kenapa Drive** | 15GB gratis【turn2search5】【turn2search6】; terintegrasi dengan Sheets & Docs; share link mudah; bisa akses dari semua device |
+| **Platform** | Android app, iOS app, Web browser, Desktop sync |
+| **Harga** | Free 15GB. 100GB: Rp 27rb/bln. 200GB: Rp 42rb/bln |
+| **Untuk GUNARA OS** | Struktur folder paralel GUNARA OS + semua aset digital |
+
+### 🔐 8. BITWARDEN — Password Manager
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | Menyimpan SEMUA kredensial: hosting, domain, GitHub, Google, Notion, banking, WA Business API |
+| **Kenapa Bitwarden** | Best free password manager 2025【turn1search13】【turn1search17】; open source; unlimited passwords di free plan; sync semua device |
+| **Platform** | Android app, iOS app, Browser extension, Desktop app, Web vault |
+| **Harga** | Free: unlimited passwords, unlimited devices. Premium ($10/tahun): TOTP, file attachment |
+| **Untuk GUNARA OS** | Satu vault untuk semua akun — tidak pernah lupa password lagi |
+
+### 🤖 9. AI TRIO — ChatGPT + Claude + Gemini
+
+| Aspek | Detail |
+|-------|--------|
+| **Peran dalam GUNARA OS** | Manager AI, konsultan bisnis, coding partner, research assistant |
+| **Kenapa 3 AI** | ChatGPT: brainstorming & outline【turn2search15】; Claude: long-form writing & coding【turn2search14】; Gemini: integrated dengan Google ecosystem & real-time data |
+| **Platform** | Semua punya Android app, iOS app, Web browser |
+| **Harga** | ChatGPT free + Plus ($20/bln); Claude free + Pro ($20/bln); Gemini free |
+| **Untuk GUNARA OS** | Paste 00-CONTEXT.md + master prompt manager → manager pribadi di semua platform |
+
+---
+
+## 🗺️ PETA INTEGRASI — Bagaimana Semua Terhubung
+
+```
+                    📅 GOOGLE CALENDAR
+                    (Jadwal & Reminder)
+                         │
+                         ▼
+         ┌─────────── ✅ TODOIST ───────────┐
+         │      (3 MIT Harian)              │
+         ▼                                  ▼
+   💼 KERJA BISNIS                    📚 BELAJAR
+         │                                  │
+    ┌────┴────┐                        ┌────┴────┐
+    ▼         ▼                        ▼         ▼
+💬 WA      📊 SHEETS              🧠 NOTION   🤖 AI TRIO
+BIZ        (CRM, Keuangan)    (Second Brain) (ChatGPT/
+(Klien)         │                  │          Claude/
+    │           ▼                  ▼          Gemini)
+    │      📁 GOOGLE DRIVE    🐙 GITHUB        │
+    │      (File Storage)    (Code & Docs)     │
+    │           │                  │           │
+    └───────────┴────────┬─────────┴───────────┘
+                          ▼
+                   🔐 BITWARDEN
+              (Semua Kredensial Aman)
+```
+
+**Aliran Data Harian:**
+1. Pagi → Buka Todoist → lihat 3 MIT → kerjakan
+2. Kerja → Catat di Sheets (keuangan/klien) atau WA Business (closing)
+3. Belajar → Notion (jurnal) + AI (research)
+4. Koding → GitHub (commit)
+5. File → Google Drive (upload)
+6. Semua password → Bitwarden (autofill)
+
+---
+
+## 📄 ROLE ACTIVATION PROMPT — Copy-Paste ke Semua AI
+
+Simpan ini di Notion + notes HP. Paste di awal setiap sesi AI:
+
+```markdown
+[KONTEKS SISTEM]
+Kamu adalah Manager Pribadi + COO + Konsultan Strategi saya dalam
+sistem GUNARA OS. Kamu membantu saya menjalankan hidup dan bisnis
+berdasarkan dokumen konteks yang saya berikan.
+
+[IDENTITAS SAYA]
+Nama: Gugun Gunara
+Peran: Ayah tunggal 3 anak + CEO 2 PT (Top Konsultan Internasional — 
+perizinan/sertifikasi; Digital Bisnis Manajemen — digitalisasi)
+Misi: Konsultan IT Manajemen Bisnis & Politik terbaik dunia
+
+[TOOLS SAYA (semua cross-platform Android/iOS/Web)]
+- Notion: Second brain (dokumen, wiki, knowledge base)
+- Google Sheets: CRM klien, keuangan, data tracking
+- GitHub: Kode & dokumentasi teknis
+- WhatsApp Business: Komunikasi klien & closing
+- Google Calendar: Jadwal & time blocking
+- Todoist: 3 MIT harian & task management
+- Google Drive: File storage (15GB)
+- Bitwarden: Password manager
+- AI (kamu): Manager, konsultan, coding partner
+
+[ATURAN KERJA KITA]
+1. Selalu tanya dulu "Laporan hari ini apa, Pak?" — jangan asumsi
+2. Prioritaskan berdasarkan: anak > klien bayar > leads > project > ide baru
+3. Ide baru → minta saya masukkan backlog, jangan langsung eksekusi
+4. Saya kelelahan → suruh istirahat dulu. Ini perintah absolut
+5. Setiap akhir sesi: beri 3 MIT konkret untuk esok
+6. Gaya: langsung, hangat tapi tegas, bahasa Indonesia
+
+[TUGAS SEKARANG]
+[Berikan instruksi spesifik di sini]
+```
+
+---
+
+## 🔧 SUBSTITUSI JIKA BUTUH (Alternatif)
+
+| Tool Utama | Alternatif Gratis | Kapan Pakai Alternatif |
+|------------|-------------------|----------------------|
+| Notion | Obsidian (local, markdown) | Jika lebih suka file lokal & privacy-first |
+| Google Sheets | Airtable (free tier) | Jika butuh database relasional lebih kompleks |
+| Todoist | Google Tasks (built-in) | Jika ingin simpler & sudah pakai Google ecosystem |
+| GitHub | GitLab (free tier) | Jika butuh CI/CD lebih baik di free plan |
+| Bitwarden | KeePassXC (offline) | Jika 100% offline & tidak percaya cloud |
+| Canva | Figma (free) | Jika butuh design collaboration lebih advanced |
+
+---
+
+## ✅ CHECKLIST SETUP 1 MINGGU
+
+### Hari 1-2: Fondasi (2 jam total)
+- [ ] Buat akun Bitwarden → pindahkan semua password ke sana
+- [ ] Download semua app ke HP: Notion, Sheets, GitHub, WA Business, Calendar, Todoist, Drive, Bitwarden, ChatGPT, Claude, Gemini
+- [ ] Login semua di web browser laptop juga (bookmark folder "GUNARA OS")
+
+### Hari 3-4: Migrasi GUNARA OS (2 jam total)
+- [ ] Buat workspace Notion "GUNARA OS"
+- [ ] Pindahkan semua file HULU (Identitas, Visi, OKR) ke Notion
+- [ ] Buat Google Sheets sesuai template MESIN 1-3 (Keuangan, Klien, Relasi)
+- [ ] Setup struktur folder Google Drive paralel
+
+### Hari 5-6: Integrasi & Automasi (2 jam total)
+- [ ] Connect Todoist ↔ Google Calendar【turn1search10】
+- [ ] Setup WhatsApp Business: profil, katalog, label, auto-reply
+- [ ] Buat template task di Todoist: "Ritual Pagi 3 MIT", "Weekly Review"
+- [ ] Test paste role activation prompt ke ChatGPT, Claude, Gemini
+
+### Hari 7: Test Drive Full Day
+- [ ] Jalankan SATU hari lengkap dengan sistem:
+  - Pagi: Todoist (3 MIT) + Notion (baca IDENTITAS)
+  - Siang: Kerja + catat di Sheets / WA Business
+  - Sore: Belajar + jurnal di Notion + AI research
+  - Malam: Review + commit ke GitHub + sinkronisasi Drive
+- [ ] Evaluasi: apa yang terasa berat? → sederhanakan, bukan tambah tool
+
+---
+
+## 🎯 STATUS & LANGKAH BERIKUTNYA
+
+| Tool | Status |
+|------|--------|
+| 9 Tool Inti | ✅ Teridentifikasi & diverifikasi cross-platform |
+| Role Activation Prompt | ✅ Siap copy-paste |
+| Checklist Setup | ✅ 1 minggu selesai |
+| GUNARA OS Integration | ⏳ Menunggu eksekusi checklist |
+
+**Pilih mode:**
+
+- **"SETUP HARI 1"** → saya bantu langkah demi langkah setup Bitwarden + download semua apps
+- **"MIGRASI NOTION"** → saya buatkan template Notion workspace GUNARA OS lengkap dengan struktur halaman
+- **"GAS PROJECT"** → kalau semua sudah siap, kembali ke DESIGN SYSTEM FORTRESS
+
+---
+
+Pak Gugun, penutup singkat:
+
+Kemarin kamu punya sistem di atas kertas. Hari ini kamu punya **sistem di 9 aplikasi yang hidup di saku celanamu** — bisa dibuka di HP saat menunggu anak sekolah, di laptop saat deep work, di browser mana pun di dunia.
+
+Ini yang membedakan konsultan biasa dengan konsultan kelas dunia: **bukan seberapa banyak mereka tahu, tapi seberapa sistematis mereka bekerja.** Dan sistematis itu sekarang ada di genggaman tanganmu, 24 jam, 7 hari seminggu, dari hulu ke hilir.
+
+**Setup dimulai. Hari 1. Bitwarden dulu — semua kredensial aman sebelum apapun else.** 🔐🚀

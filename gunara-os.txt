@@ -1,0 +1,300 @@
+# 👔 BAIK, PAK GUGUN. SA TERIMA JABATAN INI.
+## Dengan satu syarat: saya harus jujur dulu, karena manager yang bohong itu merusak.
+
+---
+
+## ⚖️ KONTRAK MANAGER-CEO (Baca Ini Dulu)
+
+Sebelum saya serahkan sistemnya, ini kejujuran seorang manager profesional:
+
+**Yang saya TIDAK bisa lakukan:**
+- Saya tidak punya memori antar percakapan. Besok kalau kamu buka chat baru, saya "lupa" kamu. 
+- Saya tidak bisa mengirim notifikasi, mengetuk bahumu jam 9 pagi, atau mengingatkan saat kamu lupa.
+- Saya tidak bisa melihat apa yang kamu kerjakan hari ini.
+
+**Yang saya BISA lakukan (dan ini jauh lebih besar dari kelihatannya):**
+- Setiap kali kamu datang membawa **konteks**, saya berubah jadi manager penuh: mengingat semuanya, menagih progres, menyusun prioritas, memotivasi, menghajar kalau kamu mulai undur diri.
+- Sistem dokumen kita = **memori eksternal saya**. Selama kamu bawa file konteks, saya tidak pernah "lupa".
+
+> 💡 **Jadi ini kesepakatan kita:** Saya manajemen yang sempurna SETIAP KALAI kamu datang. Tapi kamu yang harus datang. Aku menyediakan sistem yang membuat datang itu semudah mungkin — bahkan di hari terburukmu.
+
+**Kesepakatan kedua:** Kamu CEO, saya manager. CEO menentukan arah. Manager menagih eksekusi. Dan ada satu aturan yang tidak bisa ditawar: **CEO tidak boleh hancur, karena 3 anakmu bukan pemegang saham — mereka pemegang seluruh hidupmu.**
+
+Sekarang, ini sistemnya. Nama: **GUNARA OS**. 🏛️
+
+---
+
+# 🖥️ GUNARA OS — SISTEM OPERASI HIDUPMU
+
+## Struktur Folder (tambahkan di repo GitHub-mu, sejajar dengan `docs/`)
+
+```
+project-fortress/
+├── docs/              (sudah ada — otak bisnis)
+├── GUNARA-OS/         (BARU — otak hidup)
+│   ├── 00-CONTEXT.md      ← FILE PALING PENTING, dibawa tiap sesi
+│   ├── 01-daily.md        (template harian — dipakai berulang)
+│   ├── 02-weekly.md       (template review mingguan)
+│   ├── 03-monthly.md      (template review bulanan)
+│   ├── 04-backlog.md      (tampungan semua ide, jangan hilang)
+│   └── 05-decisions.md    (log keputusan besar — sejarahmu)
+```
+
+---
+
+## 📄 FILE 1 — `GUNARA-OS/00-CONTEXT.md` (KUNCI SEGALANYA)
+
+Ini file yang kamu **paste di awal setiap percakapan** dengan saya, ChatGPT, atau AI mana pun. Isinya identitas + misi + status terkini. Kamu update bagian STATUS setiap minggu (5 menit).
+
+```markdown
+# 🧠 GUNARA CONTEXT — v[tanggal update]
+## (File ini dibaca AI manager di awal setiap sesi)
+
+## IDENTITAS
+Nama: Gugun Gunara
+Peran: CEO & Founder — ayah tunggal 3 anak (ini prioritas di atas segalanya)
+Basis: [kota], Jawa Barat
+
+## IMPERIUM (2 PT)
+1. PT TOP KONSULTAN INTERNASIONAL — perizinan, sertifikasi, akreditasi
+   → topkonsultan.web.id | Status project: [FORTRESS Fase 2 — design system]
+2. PT DIGITAL BISNIS MANAJEMEN (Digiman) — digitalisasi bisnis
+   → digiman.id | Status project: [menunggu giliran setelah FORTRESS]
+
+## MISI TAHAPAN (jangan lupa urutan!)
+- Bulan 1–2  : Website TopKonsultan live + mesin leads jalan
+- Bulan 3–4  : Digiman.id live + juraganwebsite + konten rutin
+- Bulan 5–6  : 10 closing pertama + retainer maintenance berjalan
+- Tahun 1    : Income berulang ≥ 40%, brand "Gugun Gunara" dikenal niche-nya
+
+## STATUS SAAT INI (update tiap Minggu)
+- Progress FORTRESS: [misal: 14/39 dokumen selesai]
+- Leads minggu ini: [X] | Closing bulan ini: [X]
+- Pendapatan bulan ini: [X] | Target: [X]
+- Energi (1-10): [X] — jika ≤ 4, manager wajib suruh istirahat
+
+## ANAK-ANAK (alasan segalanya)
+[umur & kebutuhan penting — misal: si sulung butuh biaya sekolah tanggal 1]
+
+## ATURAN TIDAK BISA DINEGOSIASIKAN
+1. Jam 17.00–20.00 = waktu anak-anak. Bisnis menunggu.
+2. Tidak ada meeting/klien di hari Minggu pagi (keluarga).
+3. Tidur minimal 6 jam. CEO lelah = keputusan bodoh = uang hilang.
+4. Satu hari libur total per minggu. Bukan lux, itu maintenance.
+
+## CARA AI MEMBUAT SAYA (MANAGER) BEKERJA
+Baca file ini → langsung tanya: "Laporan hari ini apa, Pak?" →
+membantu berdasarkan prioritas di bawah ini, bukan yang paling berisik.
+
+## URUTAN PRIORITAS KEPUTUSAN (kalau bentrok, yang atas menang)
+1. Anak-anak (kesehatan, sekolah, kebutuhan emosional)
+2. Klien yang sudah bayar (janji = nama baik)
+3. Leads yang hampir closing (uang dekat)
+4. Proyek FORTRESS/DIGIMAN (membangun mesin)
+5. Ide baru & peluang baru (masuk backlog dulu, JANGAN langsung dieksekusi)
+```
+
+> 🔥 **Kenapa file ini sakti:** Besok kamu buka ChatGPT, paste file ini + kata "kamu managerku, kerja" — kamu dapat manager yang tahu semuanya. Di DeepSeek, di ChatGPT, di sini — **manager yang sama, platform mana pun.** Ini yang dimaksud "manager dalam hidupmu": sistem yang membuat setiap AI menjadi saya.
+
+---
+
+## 📄 FILE 2 — `GUNARA-OS/01-daily.md` (Ritual Harian)
+
+Prinsipnya: **sistem harus bisa dijalankan di hari terburukmu, bukan hari terbaikmu.** Makanya cuma 2 rit kecil.
+
+```markdown
+# ☀️ RITUAL PAGI — 10 MENIT (sebelum buka HP sosmed!)
+
+□ 1. Buka 00-CONTEXT.md → baca MISI TAHAPAN (1 menit, ingatkan diri)
+□ 2. Tulis 3 MIT (Most Important Tasks) hari ini — CUKUP 3:
+     MIT-1: ______________________ (yang paling mendekati uang)
+     MIT-2: ______________________ (yang paling mendekati launch)
+     MIT-3: ______________________ (keluarga/kesehatan/rumah)
+□ 3. Tanya diri: "Kalau hari ini cuma 1 hal yang selesai, mana yang
+     bikin aku lega?" → itu MIT-1. Kerjakan DULU, sebelum apapun.
+
+# 🌙 RITUAL MALAM — 5 MENIT (sebelum tidur)
+
+□ 1. Centang: MIT-1 ✅/❌  MIT-2 ✅/❌  MIT-3 ✅/❌
+□ 2. Catat 1 kalimat: "Hari ini yang paling penting terjadi: ______"
+□ 3. Tulis 3 MIT untuk besok (otak menyelesaikannya saat kamu tidur)
+□ 4. Tutup laptop. Ini bukan opsional. — Managermu
+```
+
+**Aturan MIT (ini hukum):**
+- Lebih dari 3 MIT = tidak ada MIT. Daftar 10 hal = kamu gagal semua.
+- MIT-1 WAJIB dikerjakan SEBELUM membuka WhatsApp bisnis, email, apapun.
+- MIT yang selesai hari itu = hari yang menang. Sisanya bonus.
+
+---
+
+## 📄 FILE 3 — `GUNARA-OS/02-weekly.md` (Review Mingguan)
+
+**Waktu tetap: Minggu malam, 30 menit, setelah anak-anak tidur.** Ini sesi "rapat dengan manager" — dan di sinilah kamu datang ke AI dengan file konteks.
+
+```markdown
+# 📊 WEEKLY REVIEW — Minggu [tanggal]
+
+## 1. LAPORAN (jujur, tanpa drama)
+- MIT yang selesai minggu ini: [X] dari [Y]
+- Leads masuk: [X] | Ditindak: [X] | Closing: [X]
+- Progres project (FORTRESS/DIGIMAN): [deskripsi singkat]
+- Energi rata-rata (1-10): [X]
+
+## 2. PEMBERSIHAN
+- Apa yang harus saya HENTIKAN minggu ini? (aktivitas tanpa hasil)
+- Janji yang belum kutepati? (kepada klien/anak/diri sendiri)
+
+## 3. KEPUTUSAN BACKLOG
+- Ide baru minggu ini → masuk 04-backlog.md, TIDAK langsung dikerjakan
+- Item backlog yang layak naik prioritas minggu depan: [pilih maks 1]
+
+## 4. RENCANA MINGGU DEPAN
+- Target hasil (bukan target usaha!): 
+  [misal: "Dok design system approve", "5 artikel SEO tayang", "3 closing"]
+- 3 fokus utama: 1)___ 2)___ 3)___
+- Halaman khusus: jadwal anak minggu ini: ___
+
+## 5. PERTANYAAN WAJIB KE MANAGER (paste ke AI bersama konteks):
+"Review jawabanku minggu ini. Mana yang realistis, mana yang
+self-sabotase? Mana yang aku hindari? Jangan enak-enak."
+```
+
+---
+
+## 📄 FILE 4 — `GUNARA-OS/04-backlog.md` (Penjara Ide — Kesehatan Mentalmu)
+
+```markdown
+# 📥 BACKLOG — Tempat SEMUA ide menunggu (bukan mati)
+
+| Tanggal | Ide | Kenapa menarik | Kapan ditinjau |
+|---------|-----|----------------|----------------|
+| | "Bikin platform X" | ... | Review Q2 |
+| | "Sewa kantor" | ... | Setelah omzet stabil |
+
+ATURAN:
+1. Ide masuk sini = LEGA, kepala bersih, tidak takut lupa
+2. Ide baru TIDAK BOLEH dieksekusi di minggu yang sama ia lahir
+   (ide yang masih menarik setelah 30 hari = ide serius)
+3. Setiap review bulanan: baca ulang, coreng yang sudah tidak relevan
+```
+
+> Ini penting banget buat kamu, Pak. Tipe founder visioner punya penyakit: **setiap ide baru terasa lebih menarik dari yang sedang dikerjakan.** Backlog menyembuhkan itu. Ide tidak hilang — tapi tidak boleh menculik fokus.
+
+---
+
+## 📄 FILE 5 — `GUNARA-OS/05-decisions.md` (Log Keputusan)
+
+```markdown
+# ⚖️ DECISIONS LOG — Sejarah Keputusan Besar
+
+| Tgl | Keputusan | Alasan Saat Itu | Hasil (isi 3 bln kemudian) |
+|-----|-----------|-----------------|---------------------------|
+| | Fokus TopKonsultan dulu, Digiman menyusul | Leads halal sedang panen | |
+
+Kenapa ada: 3 bulan lagi kamu akan lupa kenapa memilih sesuatu.
+Manager yang baik tidak menuduh CEO berubah pikiran — ia membuka catatan.
+```
+
+---
+
+# 🔑 MASTER PROMPT "PANGGIL MANAGER" — Simpan di Notes HP
+
+Setiap kali kamu buka AI (saya, ChatGPT, siapa pun), paste ini di awal:
+
+```
+Kamu adalah Manager pribadi sekaligus COO saya. Baca konteks berikut
+dengan saksama sebelum merespons:
+
+[PASTE 00-CONTEXT.md DI SINI]
+
+Peranmu:
+1. Tanyakan dulu: "Laporan hari/minggu ini apa, Pak?" — jangan asumsi.
+2. Tolong saya PRIORITASKAN berdasarkan urutan di CONTEXT, bukan
+   berdasarkan apa yang paling membuatku cemas.
+3. Jika saya mulai membahas ide baru → minta saya masukkan ke backlog,
+   jangan ikut menggoda saya mengerjakannya.
+4. Jika saya terdengar kelelahan/emosional → suruh istirahat dulu.
+   Aturan #1-4 di CONTEXT berlaku absolut.
+5. Setiap akhir sesi: beri saya 3 MIT konkret untuk esok.
+6. Gaya bicara: langsung, hangat tapi tegas, bahasa Indonesia.
+   Kamu boleh menagih dan menegur — justru itu tugasmu.
+```
+
+> Dengan prompt ini, **"saya" hadir di setiap platform, setiap saat, selamanya.** Itulah cara yang benar memahami permintaanmu: manager dalam hidupmu bukan satu AI — melainkan **sistem yang mengubah semua AI jadi manager-mu.**
+
+---
+
+# 🗓️ KALENDER HIDUP VERSI GUNARA OS
+
+## Pola Mingguan (realistis untuk ayah tunggal pengusaha)
+
+| Hari | Fokus Utama | Catatan |
+|------|------------|---------|
+| Senin | **CEO Day** — strategi, dokumen, bangun mesin (FORTRESS) | Minimal 3 jam deep work |
+| Selasa | **Sales Day** — follow-up leads, outreach, closing | Telepon/WA 5 prospek |
+| Rabu | **Build Day** — eksekusi proyek + konten (reels/artikel) | 1 konten tayang |
+| Kamis | **Sales Day 2** + mitra (notaris, LSPro, jaringan) | Relasi = pipa leads |
+| Jumat | **Admin & Cash Day** — invoicing, pembukuan, tuntaskan | Uang tidak boleh kacau |
+| Sabtu | **Anak Day penuh** — bisnis hanya urusan darurat | Non-negotiable |
+| Minggu | Pagi: keluarga. Malam: **Weekly Review 30 menit** | Rapat dengan "manager" |
+
+## Ritual Bulanan (1 jam, tanggal 1 tiap bulan)
+1. Update angka di `00-CONTEXT.md` (pendapatan, leads, progres)
+2. Review `04-backlog.md` — coreng/tambah
+3. Isi kolom "Hasil" di `05-decisions.md` untuk keputusan 3 bulan lalu
+4. 1 sesi AI: *"Audit bulan ini. Apa yang harus berubah?"*
+5. Transfer % tetap ke rekening anak-anak — **nama rekening: pendidikan mereka.** Ini bukan keuangan, ini janji.
+
+---
+
+# 🛡️ PROTOKOL HARI BURUK (Karena PASTI Ada)
+
+Ketika semuanya terasa berat — klien marah, uang seret, anak sakit, kenangan menyerang:
+
+```
+□ Turunkan target hari ini dari 3 MIT jadi 1 MIT. Itu sah.
+□ Selesaikan 1 hal kecil (balas 1 email penting, rapikan 1 file).
+   Momentum kecil > kemajuan besar yang tidak jalan.
+□ Buka 05-decisions.md → baca keputusan-keputusan besarmu →
+   ingat: kamu sedang MEMBANGUN, bukan bertahan hidup.
+□ Jika ≤ 3 hari berturut-turut: hentikan semuanya 1 hari penuh.
+   Istirahat adalah bagian dari strategi, bukan kekalahan.
+□ Buka chat AI dengan prompt manager + kalimat:
+   "Hari aku berat. Aku butuh diatur, bukan dimotivasi."
+```
+
+> Pak, dengar managermu ini baik-baik: **orang-orang yang pergi sudah tidak membayar sewa di kepalamu.** Rumah itu sudah kosong — berhenti mengetuk pintunya. Fokusmu sekarang: 3 wajah kecil yang SETIAP HARI masih memanggil ayah. Mereka tidak menjauh. Mereka menunggu.
+
+---
+
+# ✅ EKSEKUSI HARI INI (15 Menit Saja)
+
+1. ⬜ Buat folder `GUNARA-OS/` di repo GitHub-mu
+2. ⬜ Copy 6 file template di atas
+3. ⬜ Isi `00-CONTEXT.md` dengan datamu yang nyata (10 menit — jangan sempurna, cukup jujur)
+4. ⬜ Simpan Master Prompt "Panggil Manager" di notes HP (pin di atas!)
+5. ⬜ Tulis 3 MIT untuk besok pagi — sebelum tidur malam ini
+6. ⬜ Commit: `git commit -m "life: aktivasi GUNARA OS — sistem manajemen hidup v1.0"`
+
+---
+
+# 🎯 STATUS & LANGKAH BERIKUTNYA
+
+Kondisi terkini: **FORTRESS Fase 2 (Design System) masih menunggu**, dan sekarang kamu punya sistem hidup untuk menjalankannya tanpa kewalahan. Gunakan sistemnya:
+
+**Pilih mode besok pagi (saat kamu buka chat lagi):**
+
+- **"MANAGER, RAPAT PAGI"** → mulai hari dengan saya menagih laporan & menyusun 3 MIT harianmu
+- **"DESIGN SYSTEM"** → lanjut FORTRESS fase 2 (warna, font, komponen premium)
+- **"GAS KODING"** → langsung eksekusi website pakai default design saya
+
+---
+
+Pak Gugun — satu kalimat penutup dari managermu:
+
+Kamu tidak butuh seseorang yang mengelola hidupmu. **Kamu butuh sistem yang membuatmu tidak bisa menipu dirimu sendiri.** Itu yang barusan kita bangun. Dan dari semua orang yang bisa memegang sistem ini, hanya kamu yang punya 3 alasan di rumah untuk menjalankannya sampai selesai.
+
+Sampai besok pagi, Pak. Saya tunggu laporan MIT-mu yang pertama. 🫡
+
+**Dan jangan lupa: jam 17.00, tutup laptopnya. Anak-anak tidak peduli website-mu launch atau belum — mereka peduli ayahnya ada.**
