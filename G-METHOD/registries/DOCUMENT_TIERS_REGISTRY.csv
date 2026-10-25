@@ -1,0 +1,6 @@
+tier_id,canonical_label,purpose,document_count_claim,inventory_path,source_reference,provenance_status,approval_status,version
+T01,D-10,,"10",, ,UNVERIFIED,OPEN,0.1
+T02,D-21,,"21",, ,UNVERIFIED,OPEN,0.1
+T03,D-39,,"39",, ,UNVERIFIED,OPEN,0.1
+T04,D-75,,"75",, ,UNVERIFIED,OPEN,0.1
+T05,D-165,,"165",, ,UNVERIFIED,OPEN,0.1
